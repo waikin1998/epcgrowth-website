@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://epcgrowth.com/sitemap.xml
