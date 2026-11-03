@@ -1,0 +1,23 @@
+/* Home-only palette: consistent blue controls and light-blue surfaces. */
+.home-simple{--home-blue:#0960e9;--home-blue-dark:#064bbc;--home-blue-light:#edf5ff}
+.home-simple .home-kicker,.home-simple .home-intro h1 em{color:#0960e9}
+.home-simple .home-intro{background:#f8faff;border-color:#e4edfa}
+.home-simple .home-pill{background:#0960e9;border-color:#0960e9;color:#fff}
+.home-simple .home-pill span{background:#fff;color:#0960e9}
+.home-simple .home-icon{background:#edf5ff;color:#0960e9}
+.home-simple .home-service-card:focus-visible{background:#edf5ff}
+.home-simple .home-service:focus-within .home-service-card{border-color:#0960e9}
+.home-simple .home-number{color:#0960e90a}
+.home-simple a:focus-visible,.home-footer a:focus-visible{outline-color:#0960e9}
+.home-footer a:hover{color:#0960e9}
+.home-reference-header .agency-contact{border:1px solid #0960e9!important}
+.home-reference-header a:focus-visible,.home-reference-header summary:focus-visible,.home-reference-header .agency-toggle:focus-visible{outline-color:#0960e9}
+.home-reference-header .agency-toggle{border-color:#cbdcf4;color:#0960e9}
+.home-reference-header .agency-links>a:after,.home-reference-header .agency-services>summary:after{background:#0960e9}
+.home-reference-header .agency-links>a:hover,.home-reference-header .agency-services>summary:hover,.home-reference-header .agency-services[open]>summary,.home-reference-header .agency-dropdown a:hover{color:#0960e9}
+.home-reference-header .agency-dropdown a:hover{background:#edf5ff}
+@media(hover:hover){
+ .home-simple .home-service-card:hover{background:#edf5ff;border-color:#99bff8;box-shadow:0 16px 35px #0960e918}
+ .home-simple .home-service-card:hover .home-icon{background:#fff}
+ .home-simple .home-pill:hover{background:#064bbc;border-color:#064bbc;box-shadow:0 8px 18px #0960e92b}
+}

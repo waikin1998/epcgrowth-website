@@ -1,0 +1,17 @@
+/* Simple editorial palette. Brand artwork and product previews stay unchanged. */
+:root{--paper:#fff;--ink:#24272b;--muted:#60666d;--gold:#94702e;--line:#e4e7eb}
+html body{background:#fff!important;color:#24272b;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif!important}
+.agency-header,.agency-dropdown,.agency-links{background:#fff;color:#24272b;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+.agency-header{border-color:#e4e7eb;box-shadow:none}.agency-top{background:#f4f5f6;color:#51575e}.agency-dropdown{border-color:#e4e7eb}.agency-dropdown a:hover{background:#f5f6f7}
+main h1,main h2,main h3,main p,main summary,main a,button,input,textarea,select{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif!important}
+main h1,main h2{letter-spacing:-.035em!important;font-weight:650!important}main h3{letter-spacing:-.015em!important;font-weight:600!important}
+.premium-home h1,.u-page h1{font-size:clamp(38px,4.3vw,62px)!important;line-height:1.12!important}
+.premium-home h2,.u-page h2{line-height:1.2!important}.premium-home .p-hero{padding-top:80px;min-height:650px}
+.p-hero,.u-hero,.u-title,.agency-catalog,.seo-questions{background:#fff!important}
+.p-journey:before{background:none!important}.p-eyebrow{letter-spacing:.12em!important;color:#6b7178!important}.p-eyebrow:after{background:#d8dde2}
+.p-lead,.u-intro,.u-pricing-summary{color:#555d65!important;line-height:1.7!important}.agency-card{background:#fff;border-color:#e4e7eb;box-shadow:none}.agency-card p{color:#60666d}
+.p-ai{background:#f5f6f7!important;color:#24272b!important}.p-ai .p-muted,.p-ai .p-ownership,.p-ai-demo>small{color:#60666d!important}.p-ai em{color:#94702e!important}
+.p-contact,.u-end{background:#f5f6f7!important;color:#24272b!important}.p-contact p:not(.p-eyebrow){color:#60666d!important}
+.p-button:not(.p-outline),.agency-contact{background:#f5d887!important;color:#24272b!important;border:1px solid #e6c773!important;box-shadow:none!important}.p-outline{background:#fff!important;color:#24272b!important;border-color:#b9bec4!important}
+.company-footer{background:#f5f6f7!important;color:#60666d!important;border-top:1px solid #e4e7eb;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif!important}.company-footer strong,.company-footer h2{color:#30363c!important}.company-footer a,.company-footer p,.company-footer small,.company-footer .epc-service-directory{color:#60666d!important}.company-footer .epc-service-directory{border-color:#dce0e4!important}
+@media(max-width:650px){.premium-home .p-hero{padding-top:42px;min-height:0}.premium-home h2,.u-page h2{font-size:30px!important}}

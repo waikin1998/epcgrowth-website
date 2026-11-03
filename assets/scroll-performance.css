@@ -1,0 +1,7 @@
+/* Fixed-header blur resamples the content behind it during scrolling. */
+.epc-global-header{background:#faf8f3!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+html{scroll-behavior:auto}
+.p-work-image>img{filter:none}
+.lp-sample img{transition:none}
+.lp-sample a:hover img{filter:none}
+@media(hover:none){.p-work-image:hover>img,.p-button:hover{transform:none}}
