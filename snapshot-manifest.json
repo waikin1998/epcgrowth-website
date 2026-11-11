@@ -1,703 +1,926 @@
 {
-  "origin": "https://epcgrowth.com/",
-  "captured_date": "2026-11-04",
-  "verification": "Every saved URL fetched twice and compared by SHA-256.",
+  "updated": "2026-11-11",
+  "source": "Desktop working copy",
   "files": [
     {
-      "url": "https://epcgrowth.com/",
       "path": "index.html",
-      "bytes": 14485,
-      "sha256": "a521985870d25f21993d562ba0d99d30482b50c267f36abd7e75705f6f958595"
+      "sha256": "9391bc7053b65fdbd6b7daf2795617dcd2840d82dbb346d09bb163d5f04b2ac7"
     },
     {
-      "url": "https://epcgrowth.com/styles.css",
       "path": "styles.css",
-      "bytes": 16217,
       "sha256": "0795dbc23d7ced5b9caac719700f6eac0b08884dcb73eba77978ecb382b6cab2"
     },
     {
-      "url": "https://epcgrowth.com/robots.txt",
+      "path": "sitemap.xml",
+      "sha256": "290fa91faf702e46138c09e057be9b58db03d19d2e62797aa9cc44072af8cab3"
+    },
+    {
       "path": "robots.txt",
-      "bytes": 67,
       "sha256": "105180aea560587c7fe2ea953907781f7f8e5d7438847cbccff8430899fcc143"
     },
     {
-      "url": "https://epcgrowth.com/sitemap.xml",
-      "path": "sitemap.xml",
-      "bytes": 2731,
-      "sha256": "1d69a3867007629b7946ee5f049a79e83836f1185f4564ab988f320adc7396c9"
-    },
-    {
-      "url": "https://epcgrowth.com/facebook-ads-malaysia/",
-      "path": "facebook-ads-malaysia/index.html",
-      "bytes": 28648,
-      "sha256": "70d265dba7b8a87680f9e948ecd8cc6020df837a8930c256ea10e6c435b7be05"
-    },
-    {
-      "url": "https://epcgrowth.com/landing-page-malaysia/",
       "path": "landing-page-malaysia/index.html",
-      "bytes": 27705,
-      "sha256": "81b5293eaf9c44a1174ffda7930e6485119c73b2dd00125f21de069f5a31af76"
+      "sha256": "6f188ba8f517e8253a0204b2fc1f9aa5e4afb6adf83ec0195860c09b58d1c945"
     },
     {
-      "url": "https://epcgrowth.com/google-ads-malaysia/",
-      "path": "google-ads-malaysia/index.html",
-      "bytes": 40796,
-      "sha256": "48730cfde6e18ce0440a8fbfb685c3b42bbc4dfb0de35c5c97b8cb1838977574"
+      "path": "landing-page-malaysia/style.css",
+      "sha256": "f0be83fca585f279249a2878689e94c08c58c5e06ee07dde489af8145cef63ab"
     },
     {
-      "url": "https://epcgrowth.com/about/",
-      "path": "about/index.html",
-      "bytes": 13132,
-      "sha256": "085db74032119a24ebb849668cc4b97ba8443d697dbbc58ade6a3b2bc08ac162"
-    },
-    {
-      "url": "https://epcgrowth.com/epc-ai-chat/",
-      "path": "epc-ai-chat/index.html",
-      "bytes": 12437,
-      "sha256": "3d433af0094c9379f96bc45fa02c3ca324300d021cc90244c956a01c8e91a41d"
-    },
-    {
-      "url": "https://epcgrowth.com/privacy-policy/",
-      "path": "privacy-policy/index.html",
-      "bytes": 8011,
-      "sha256": "ea97e0369a944e26e4bbf829ad609da6cd57c8ca3c62a2f6ba345b097d9d4925"
-    },
-    {
-      "url": "https://epcgrowth.com/terms-of-service/",
-      "path": "terms-of-service/index.html",
-      "bytes": 7993,
-      "sha256": "17e32e27fece95f70c873f9dcc173a2d7b32fa199888249576d6729635632977"
-    },
-    {
-      "url": "https://epcgrowth.com/data-deletion/",
-      "path": "data-deletion/index.html",
-      "bytes": 7744,
-      "sha256": "d2007f2da4f27fce14536649755ae895895e7be1c5521ccfb71ae04ea4a1fa16"
-    },
-    {
-      "url": "https://epcgrowth.com/marketing-agency-malaysia/",
-      "path": "marketing-agency-malaysia/index.html",
-      "bytes": 19155,
-      "sha256": "a0f1a6cb961f91dde5a79f37a28fd8ec86ede7465fa9de76b192e982223c7a0b"
-    },
-    {
-      "url": "https://epcgrowth.com/industries/",
-      "path": "industries/index.html",
-      "bytes": 12594,
-      "sha256": "b917136398172be69183b5cdab548eede062d933898fb4140a1d0dcfd7255330"
-    },
-    {
-      "url": "https://epcgrowth.com/our-work/",
-      "path": "our-work/index.html",
-      "bytes": 13713,
-      "sha256": "3527bc77910bbfd144ae9c64b7d8b472fa71acecf78f1058acfc283b51a803d4"
-    },
-    {
-      "url": "https://epcgrowth.com/contact/",
-      "path": "contact/index.html",
-      "bytes": 12782,
-      "sha256": "e48674d5cbf528d72a4e643540051cf0a75a3fea8cc26b58a1d0b8d0c1930c0b"
-    },
-    {
-      "url": "https://epcgrowth.com/our-work/the-valley-beauty/",
-      "path": "our-work/the-valley-beauty/index.html",
-      "bytes": 15356,
-      "sha256": "da575621d59d84203fd0494a7c8f2a281052bd6b4540e75a656bd523017542d7"
-    },
-    {
-      "url": "https://epcgrowth.com/creative-content-malaysia/",
-      "path": "creative-content-malaysia/index.html",
-      "bytes": 11767,
-      "sha256": "b4dad726c1c7d31e5ef9741ed1826a856c07b3dd7bc33345f7f3e197be91ce5a"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/",
-      "path": "guides/index.html",
-      "bytes": 12587,
-      "sha256": "2e3c96daeadbbbd443903aa97f6666b2f0836ba557557b27c544df2424607084"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/marketing-budget-malaysia/",
-      "path": "guides/marketing-budget-malaysia/index.html",
-      "bytes": 13453,
-      "sha256": "22a8f3c665017b2f7fd516c88da2f2677dbeb99933cc6c4edb722e8e68acd174"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/campaign-brief-template/",
-      "path": "guides/campaign-brief-template/index.html",
-      "bytes": 12139,
-      "sha256": "5f23cb84722d1c37577bab2203d211a2724b2fe347254f9f58cc002a71833877"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/meta-ads-vs-google-ads-malaysia/",
-      "path": "guides/meta-ads-vs-google-ads-malaysia/index.html",
-      "bytes": 12354,
-      "sha256": "08bce23645c6bdfd044c6378e18fa6581b280631a230ecbdafacb934b5881a5e"
-    },
-    {
-      "url": "https://epcgrowth.com/faq/",
-      "path": "faq/index.html",
-      "bytes": 18351,
-      "sha256": "2d15d3f4949c2399087817cb1d09871cdd3af7eb2307ed7f88f2aa70a51be1cd"
-    },
-    {
-      "url": "https://epcgrowth.com/content-creator-ai-video-malaysia/",
-      "path": "content-creator-ai-video-malaysia/index.html",
-      "bytes": 19289,
-      "sha256": "3db84c30391e1af29b779f2bc7f0c9402db51dfb763896976d41963ef18ba56f"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/epc-favicon-2026.png",
-      "path": "assets/epc-favicon-2026.png",
-      "bytes": 266645,
-      "sha256": "38d7f7e58d383946d01e54db503a336a140ca01f6dd1ff6ee9bce43e869538ca"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/global-header.js?v=20260927-unified",
-      "path": "assets/global-header.js",
-      "bytes": 553,
-      "sha256": "c889fb19a4d1f7a200a173e4dfef9166aa0fa584af02b507356db786aaac7974"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/company-footer.css?v=20261031-inner",
-      "path": "assets/company-footer.css",
-      "bytes": 843,
-      "sha256": "19fc8b5aa49b138629f273dccd4accef8aa7f1f4d5b772cabb34b7ce3dc105fc"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/global-header.css?v=20261031-inner",
-      "path": "assets/global-header.css",
-      "bytes": 2503,
-      "sha256": "fa251ef77c5425e0d594c00711ff7460bc37da35bcd5f91dfe9287c769854e92"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/mega-header.css?v=20261031-inner",
-      "path": "assets/mega-header.css",
-      "bytes": 4913,
-      "sha256": "cbbbac24ba5133e3bc18d27e80b22e00f8fcbc9141a0b576efd06a00cf8eaa2a"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/service-directory.css?v=20261031-inner",
-      "path": "assets/service-directory.css",
-      "bytes": 748,
-      "sha256": "4df59ef23db76ac9af53c4a411ab5d002542626f277c7a1ca8e05c3675bffe3d"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/premium-home.css?v=20261031-inner",
-      "path": "assets/premium-home.css",
-      "bytes": 16279,
-      "sha256": "41c69461932cc24ec1e0111167f8c5356ffbc6313a046f99818fab93957b636b"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/inner-pages.css?v=20261031-inner",
-      "path": "assets/inner-pages.css",
-      "bytes": 18896,
-      "sha256": "82b23b5e66940d7fbb5d91ae2f5e39ffda3a7e6699c8e5d8403c40e061dca1a8"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/inner-pages.js?v=20261031",
-      "path": "assets/inner-pages.js",
-      "bytes": 1380,
-      "sha256": "9a34e438931066cc611fc246ffa384da6f74d5918bb1f4563bb3636f72072f2c"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/seo-content.css?v=20261031",
-      "path": "assets/seo-content.css",
-      "bytes": 403,
-      "sha256": "2c96a03ccf94e54aa60d0259e030b5055f9cd579e6a78915edd35bc719c389bb"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/scroll-performance.css?v=20261101",
-      "path": "assets/scroll-performance.css",
-      "bytes": 395,
-      "sha256": "8383340c2399740178a460348d6907f8b42cdd71003a7a656cb8a03895b833d8"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/heading-refinement.css?v=20261102",
-      "path": "assets/heading-refinement.css",
-      "bytes": 376,
-      "sha256": "d80252a1c8b98dfb41ed39eea456269f0acb7d9f696d07f9b968d783e474c883"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/agency-navigation.css?v=20261103",
-      "path": "assets/agency-navigation.css",
-      "bytes": 3707,
-      "sha256": "3d5ee891ba8c656db084ce15b9de6265e3b70ed91e59929078e3ccbaf667181a"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/agency-navigation.js?v=20261103",
-      "path": "assets/agency-navigation.js",
-      "bytes": 853,
-      "sha256": "23b7faa034e2d5eb7e8ad528c36f6f1b9e59ed7aae786157c0f047924c02ba06"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/simple-theme.css?v=20261103",
-      "path": "assets/simple-theme.css",
-      "bytes": 2600,
-      "sha256": "03e916e0506792181269dba2fed80a9df84b503e27c7c728ddf85e8347ce3257"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/home-simple.css?v=20261103",
-      "path": "assets/home-simple.css",
-      "bytes": 4342,
-      "sha256": "b9ec2064199be96957e593f4e362c48a24336d3bd64517f84d6cd6d2abd4b44c"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/home-navigation.css?v=20261103",
-      "path": "assets/home-navigation.css",
-      "bytes": 3026,
-      "sha256": "aaa13acffe7e9b03bb12362929649d1b8985e254256dbf8407c78ad4751d9a30"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/home-navigation.js?v=20261103",
-      "path": "assets/home-navigation.js",
-      "bytes": 834,
-      "sha256": "79701fc4313364063cf0aba1ae61e1155187755cbba3c10bbb37cfc1f0c6bd94"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/home-blue.css?v=20261103",
-      "path": "assets/home-blue.css",
-      "bytes": 1817,
-      "sha256": "563038f6a9ea67e50d736746e4ec65d676fcacab6b55c042a3fb2364adf11cdb"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/epc-marketing-logo-header.png",
-      "path": "assets/epc-marketing-logo-header.png",
-      "bytes": 159808,
-      "sha256": "a0f22bd7dbd26b93cf16eeaa40af57980f5a0fcbb7f4df2049e8a05f1fc25941"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/whatsapp-logo.svg",
-      "path": "assets/whatsapp-logo.svg",
-      "bytes": 1232,
-      "sha256": "6870171eea83ea80607e3a4e9b5de7ed724da07aa3af2de9c7b50e7408926a2b"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/meta-ads-refresh.css",
-      "path": "assets/meta-ads-refresh.css",
-      "bytes": 5921,
-      "sha256": "e616033819e4f2a84b145ec456780502f26dc07a426afa7fa3f1558a5ac4644d"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/meta-ads-refresh.js",
-      "path": "assets/meta-ads-refresh.js",
-      "bytes": 1305,
-      "sha256": "658e60586c1f6862c4e14a193eaa719d21d0bb222f689237f34bc3b7297e84d4"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/meta-report-details.css",
-      "path": "assets/meta-report-details.css",
-      "bytes": 1468,
-      "sha256": "3e8f2f1a4b1837aa275972b4d7b26b5ba95a915df2d153b91a5494982efb7de5"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/valley-beauty-radiance-ad.jpeg",
-      "path": "assets/valley-beauty-radiance-ad.jpeg",
-      "bytes": 207263,
-      "sha256": "5d31991cb1fbf560e1371f704e2e87394f6815aba21df7e6ea9ae91149bea6de"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/campaign-valley-beauty-skin.jpeg",
-      "path": "assets/campaign-valley-beauty-skin.jpeg",
-      "bytes": 222766,
-      "sha256": "51a3eba693db20a22a21e9e723a41e74cc26b14d57f15767deffc2d649cb5464"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/campaign-car-tint.png",
-      "path": "assets/campaign-car-tint.png",
-      "bytes": 1681185,
-      "sha256": "49ab80d585ac006f8898f672d6dcc3a4842f82065aeddd45164760e0e12854df"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/campaign-forklift.jpg",
-      "path": "assets/campaign-forklift.jpg",
-      "bytes": 865398,
-      "sha256": "c1a1c503700e912976b5453067a77d6d7f89e80bc4161b01f2fd788068d29308"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/valley-beauty-offer-ad.jpeg",
-      "path": "assets/valley-beauty-offer-ad.jpeg",
-      "bytes": 325132,
-      "sha256": "42f4fb70926ef238f4c02698b11e7a63b3d842fac394bbdc4111325516509734"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/campaign-ai-workshop.jpeg",
-      "path": "assets/campaign-ai-workshop.jpeg",
-      "bytes": 340597,
-      "sha256": "3efa16380b3bb5f811ea33ee1cdc9f94513b225bc7fe4a6c343854709d7d1fc4"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/campaign-thai-food.png",
-      "path": "assets/campaign-thai-food.png",
-      "bytes": 1722487,
-      "sha256": "33a6b64f2f6313dddf040d8213b7fd83c70b221c3a4ccfa0e9f3a5061f9c1845"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/partner-valley-beauty.jpg",
-      "path": "assets/partner-valley-beauty.jpg",
-      "bytes": 33216,
-      "sha256": "30531379a2b5b227475f1a3858fb32430bc265b6ec039ec6f0e6cf9361f19f93"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/partner-multilift.png",
-      "path": "assets/partner-multilift.png",
-      "bytes": 11766,
-      "sha256": "36b27effc0d4c556a6780f645bf50adf5f7917663ea1c4c01b66d468221f909b"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/partner-oon-soong.png",
-      "path": "assets/partner-oon-soong.png",
-      "bytes": 886520,
-      "sha256": "6c5e825316e328bb3ff8712addae8ad7266c05f5a6b434a0db0cd134357cf537"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/meta-report-beauty.png",
-      "path": "assets/meta-report-beauty.png",
-      "bytes": 357064,
-      "sha256": "ed35f3bd07adb221534b53b4986b2e19b84d26be8dc840075177634204b32930"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/meta-report-automotive.png",
-      "path": "assets/meta-report-automotive.png",
-      "bytes": 279222,
-      "sha256": "e631ffa1a14ba1c217aa60a69958ef8805d8eafdb5cfb837f55c14024f30c847"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/meta-report-dessert.png",
-      "path": "assets/meta-report-dessert.png",
-      "bytes": 386684,
-      "sha256": "70e451f666d508101ed69b54e522c8158fcbea192c30f71dbc5d9becc2a48560"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples.css?v=20261031",
-      "path": "assets/landing-samples.css",
-      "bytes": 1812,
-      "sha256": "eaa86a55d05e31cd88acfe18c978ee4293fa65a000d250c809b2cbdff58595e4"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples.js?v=20261031",
-      "path": "assets/landing-samples.js",
-      "bytes": 1028,
-      "sha256": "f368f1b0072bfba4e47473a639079466555dafc72951a06ac6ec545ebee1766a"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/webdev-preview.css?v=20261103",
-      "path": "assets/webdev-preview.css",
-      "bytes": 6095,
-      "sha256": "c47e2412b5675cac365379915b4145360a1fd548db3b779d1864948a194fa624"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-showcase-beauty.png",
-      "path": "assets/landing-showcase-beauty.png",
-      "bytes": 1770911,
-      "sha256": "1424be93daf20147bd278695f811aea902e379fbb0382a91e350c18414ee1aea"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-page-seven-elements.png",
-      "path": "assets/landing-page-seven-elements.png",
-      "bytes": 1675534,
-      "sha256": "3a714930cf82f53d89d70e36f74b2aa55bf3f66f3d1d337ec79bdad189e2b9f4"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/automotive.png",
-      "path": "assets/landing-samples/automotive.png",
-      "bytes": 2104673,
-      "sha256": "a493581b7a5b7605e8704866861c9c66212bc045e3ee2b6bf1e91028e35f8b06"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/beauty.png",
-      "path": "assets/landing-samples/beauty.png",
-      "bytes": 1982949,
-      "sha256": "b06f2a723a04ead14c70f689e60eacda9c51f1278c74c0b17c0f4133251fb396"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/restaurant.png",
-      "path": "assets/landing-samples/restaurant.png",
-      "bytes": 2184035,
-      "sha256": "6d43db006a4140dcec85d751ce4fdbd35b3cd881ad5abee8ce2a67ac9048ad20"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/property.png",
-      "path": "assets/landing-samples/property.png",
-      "bytes": 2294968,
-      "sha256": "63877ee1756138e44fa2dc85d0d0625370ebce1cb6261c1f0da71062434ffdb6"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/interior.png",
-      "path": "assets/landing-samples/interior.png",
-      "bytes": 2277958,
-      "sha256": "8b3d5d67feabca36d59de9b79840b4a0233c056ced8ca3880e3b9c26511de767"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/fitness.png",
-      "path": "assets/landing-samples/fitness.png",
-      "bytes": 2006135,
-      "sha256": "c34bdd7926fedc9089dceb613e273de2717b29c13501bad0e9042a61ae0ec031"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/education.png",
-      "path": "assets/landing-samples/education.png",
-      "bytes": 1900732,
-      "sha256": "123cef4d30941633da3d1533ec08969035af05a3e97327ea5acc6648abecb34d"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/ecommerce.png",
-      "path": "assets/landing-samples/ecommerce.png",
-      "bytes": 1914561,
-      "sha256": "b14ec989a4f19f0924c98b1a448f299151137c2d5f216ae05e435bcbc95ff1ec"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/b2b.png",
-      "path": "assets/landing-samples/b2b.png",
-      "bytes": 2120188,
-      "sha256": "c8d9ad41578e1bbff2b1542a09ea7a27a29a59a19a70c017d5d33cc25593838a"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-samples/travel.png",
-      "path": "assets/landing-samples/travel.png",
-      "bytes": 2580165,
-      "sha256": "51603eff12ff6bcce3cfd39ee53b6ed101ab29ac84edb5f4fd3e89c399526baf"
-    },
-    {
-      "url": "https://epcgrowth.com/landing-page-malaysia/slider.js",
       "path": "landing-page-malaysia/slider.js",
-      "bytes": 1755,
       "sha256": "d877df5448cb7fdc5e7766eed55d3612ace30ad5f00caa4229918a87a24f7d91"
     },
     {
-      "url": "https://epcgrowth.com/assets/google-ads-refresh.css?v=20261103",
-      "path": "assets/google-ads-refresh.css",
-      "bytes": 5595,
-      "sha256": "cc737ef6df21eed8b4f23acef945855def9c445e9ac9dfd2b3f2c8a0c7bc9c9f"
+      "path": "contact/index.html",
+      "sha256": "2be39d8c33f86cf38631541867fcbaaad36e2f2c89e34d98cbdaaf91bee2fd43"
     },
     {
-      "url": "https://epcgrowth.com/assets/google-ads-visual.css?v=20261103",
-      "path": "assets/google-ads-visual.css",
-      "bytes": 2394,
-      "sha256": "1116082de1228b79c7927773a8703f9260f97f9e2546fdc06fd23691f3ca9cb4"
+      "path": "content-creator-ai-video-malaysia/index.html",
+      "sha256": "7c474091c22a74fb026d548a3640a65481d189fefb8f81c316fc5ebf2205163c"
     },
     {
-      "url": "https://epcgrowth.com/assets/about-refresh.css?v=20261103",
-      "path": "assets/about-refresh.css",
-      "bytes": 4428,
-      "sha256": "49b432b92f6a21eef8940a35dc5bb7b20ca09ee405a5fce97cc6dabfdef32295"
+      "path": "privacy-policy/index.html",
+      "sha256": "9dc27cbcdf9c4349ba329e8dd5d3831c8283fff9f513ec38b1cdbca24fb50e8f"
     },
     {
-      "url": "https://epcgrowth.com/assets/about-compact.css?v=20261103",
-      "path": "assets/about-compact.css",
-      "bytes": 2112,
-      "sha256": "4f61a646dae17a7bb00032fb6dbb0b1cd0c2e3694fb225a4a19ee0e53680c617"
+      "path": "faq/index.html",
+      "sha256": "66843e5c194edee9cc1eb53c390a68821b7ef24766f2ced8b710b2de0258f22a"
     },
     {
-      "url": "https://epcgrowth.com/assets/office-marketing-illustration.png",
-      "path": "assets/office-marketing-illustration.png",
-      "bytes": 2657288,
-      "sha256": "fca9692f3d281da96bebb9fe06acaea61cf220732cfa2223f04c4a5babf5d76d"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/marketing-growth.svg",
-      "path": "assets/marketing-growth.svg",
-      "bytes": 1733,
-      "sha256": "0d4eed04ea0d725ac76703305543c37842dce75c212cdd60ea7a0657ca54f36a"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/legal.css?v=20261031-inner",
-      "path": "assets/legal.css",
-      "bytes": 1244,
-      "sha256": "56570ba42ef7d34ba7e27e749a0c9f90d21fb66c191a04c6c1943b9fbeb2bd14"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/landing-showcase-automotive.png",
-      "path": "assets/landing-showcase-automotive.png",
-      "bytes": 1840323,
-      "sha256": "4b5d7eec131a804230b8457524d40cbe00c166784ee9df42aed7000c75d3165c"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/contact-page.css?v=20261103",
-      "path": "assets/contact-page.css",
-      "bytes": 3627,
-      "sha256": "23146a90a106a2db378d845de0aa40a57941dd8be1840df873f730c533823f0f"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/contact-page.js?v=20261103",
-      "path": "assets/contact-page.js",
-      "bytes": 1103,
-      "sha256": "1c9b63feb000cb8594c1c6e97f3ea65512857e1f37bfb681a0c48b4fcd5b5102"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/valley-case.css?v=20261031",
-      "path": "assets/valley-case.css",
-      "bytes": 1866,
-      "sha256": "2f1a486bb56704e11a9cafc0e0aa303308ee94f6d24c99ed978203c6bd09e8bc"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/valley-beauty-treatment-poster.jpg",
-      "path": "assets/valley-beauty-treatment-poster.jpg",
-      "bytes": 28385,
-      "sha256": "e8765a90e90c07c9bbe2e629ab8142b6a043f5ed3f298c446186af21519858d4"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/valley-beauty-treatment-video.mp4",
-      "path": "assets/valley-beauty-treatment-video.mp4",
-      "bytes": 4065020,
-      "sha256": "ce044b5f03312de8c750326f38f0f2bf9d90b062539ed7684387abf26c909283"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/valley-beauty-social-poster.jpg",
-      "path": "assets/valley-beauty-social-poster.jpg",
-      "bytes": 31956,
-      "sha256": "6855983182aab20c3422ff38f6ca6f4136b74d70a45eb7e55bd45aa77fea067c"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/valley-beauty-social-video.mp4",
-      "path": "assets/valley-beauty-social-video.mp4",
-      "bytes": 3585754,
-      "sha256": "5a1c5dc9ddfbbffa2229e6f601ff18da832be5e053d7bfca9647ba6e1dd260b5"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/creator-preview.css?v=20261103",
-      "path": "assets/creator-preview.css",
-      "bytes": 1186,
-      "sha256": "382cedb5c9c262b720eead96125b951bfd85227912549d1f828a81fa5e013af0"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-preview.css",
-      "path": "assets/blog-preview.css",
-      "bytes": 6360,
-      "sha256": "268dde78c2197534dea76975cc1c5943222a720d43dbc98d266684d9854343b2"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-cards.css",
-      "path": "assets/blog-cards.css",
-      "bytes": 1634,
-      "sha256": "6cd3cc9682e8ae5b8477f754eaaa0cf0ff04d6cb1668ad9acb72f3f2dc217dd8"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/google-ads-strategies-2027/",
-      "path": "guides/google-ads-strategies-2027/index.html",
-      "bytes": 17679,
-      "sha256": "373b6baae867b95459ebfbec01ef9a51f8dcbcadb5ca9589254a7cc4709df9ac"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-search-2027.jpg",
-      "path": "assets/blog-search-2027.jpg",
-      "bytes": 209566,
-      "sha256": "0463416bd466541b01d77992f3dc7750b2e6aa8477ce3810fd2ae70e31c1337c"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/marketing-budget-malaysia-2027/",
-      "path": "guides/marketing-budget-malaysia-2027/index.html",
-      "bytes": 16593,
-      "sha256": "fde609fe0f41c0e7a327834b411358a77f4e741a1b194e48c1ca2f7223e1b78d"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-budget-2027.jpg",
-      "path": "assets/blog-budget-2027.jpg",
-      "bytes": 267841,
-      "sha256": "2e69eb1b93eb3f21f1241c95f259245718f792d1a44d376e78a1dccfcd12a220"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/landing-page-checklist-2027/",
-      "path": "guides/landing-page-checklist-2027/index.html",
-      "bytes": 16493,
-      "sha256": "0f0a8fc2cf901868df7efe299b8e399742fed4adc2784ebaff85a0a931aca929"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-page-2027.jpg",
-      "path": "assets/blog-page-2027.jpg",
-      "bytes": 226886,
-      "sha256": "55721283a5e8d2ec0b270a691a985c02df573eb3972fefdcbd627ecdc03b9766"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/marketing-agency-malaysia-checklist/",
-      "path": "guides/marketing-agency-malaysia-checklist/index.html",
-      "bytes": 15219,
-      "sha256": "d1edc5ad7057d469e639fbe9c2414743127f1e982ee6a9c92199884847fa1c1a"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-agency-2027.jpg",
-      "path": "assets/blog-agency-2027.jpg",
-      "bytes": 260421,
-      "sha256": "1a2a5b64853661af71e22c8f9b152f6c32ba5c65d1b153a0f7ed1c696ea3376a"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/kl-marketing-agency-guide/",
-      "path": "guides/kl-marketing-agency-guide/index.html",
-      "bytes": 15347,
-      "sha256": "155c987909cb2fd8fe81932c3208ea525b4d79dfdd848f33f3adbec6a636fb9c"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-kl-2027.jpg",
-      "path": "assets/blog-kl-2027.jpg",
-      "bytes": 297231,
-      "sha256": "f492bdb0d8fede17bd40458bb30fcf4d167c7c87b44f3e9fe683843a3e82dad0"
-    },
-    {
-      "url": "https://epcgrowth.com/guides/facebook-meta-advertising-malaysia/",
-      "path": "guides/facebook-meta-advertising-malaysia/index.html",
-      "bytes": 15344,
-      "sha256": "27dc470cc54634c1ba1b0d71564b825cabdd55f3483fe3729e8ac200ce4aad19"
-    },
-    {
-      "url": "https://epcgrowth.com/assets/blog-meta-2027.jpg",
-      "path": "assets/blog-meta-2027.jpg",
-      "bytes": 225299,
-      "sha256": "a9254aef3345746098ac5dd84fa80533dc2eb1ac019419d2bbcabfc6fe0cbc9a"
-    },
-    {
-      "url": "https://epcgrowth.com/resources/campaign-brief-template.txt",
       "path": "resources/campaign-brief-template.txt",
-      "bytes": 758,
       "sha256": "53355e072986e4d24e1189a8f93e95569a03bfb72c072ba1652181a120a9d686"
     },
     {
-      "url": "https://epcgrowth.com/assets/faq-page.css?v=20261103-16",
-      "path": "assets/faq-page.css",
-      "bytes": 2593,
-      "sha256": "6ce06ec202c9ee48d5fa82b3a977397c43028f17b64a7c320b6ffea37a46f5ea"
+      "path": "industries/index.html",
+      "sha256": "19cbf032aec94c2e6390d7d65591220cc8f4322b1cde6b3b254210756a01037d"
     },
     {
-      "url": "https://epcgrowth.com/assets/creator-filming.jpg",
+      "path": "about/index.html",
+      "sha256": "b89c2b9d80a0a55dac2c0e56dc0932235e7e625a0b8cdb52dab0a9f1df2850e6"
+    },
+    {
+      "path": "about/style.css",
+      "sha256": "935892708139c27d4eff8276f46000b7f54039e276a92fbee5742d6842eb562c"
+    },
+    {
+      "path": "seo-malaysia/index.html",
+      "sha256": "e67437b1994aae93e7b213ecbfc85a46327f4ff9dc3361d113c29a4b3526ec08"
+    },
+    {
+      "path": "creative-content-malaysia/index.html",
+      "sha256": "47ae9a3536e1b2b653ff3f6282d00542a239fcefc7b2f69fc9e32a6c1ca3e37a"
+    },
+    {
+      "path": "facebook-ads-malaysia/index.html",
+      "sha256": "37ccdd14587820da26f56794ab97cdec427b6e58ab45f295dcbdd5ff31a6cd3c"
+    },
+    {
+      "path": "facebook-ads-malaysia/style.css",
+      "sha256": "df5726163e5871d84bde79e9f8a9c1503525b469fa795dbaeb3add115dde4cd2"
+    },
+    {
+      "path": "our-work/index.html",
+      "sha256": "97958b70ba4a3c67f477bb636b3d92b7ec648b99c2fb1ce754d7737fce4de062"
+    },
+    {
+      "path": "our-work/the-valley-beauty/index.html",
+      "sha256": "db86590e190ed550ed3a19a0271e0a716d621c7c260f390c049d6d849755a148"
+    },
+    {
+      "path": "guides/index.html",
+      "sha256": "560fefbec9f3a0b5275510ac1cc80e07ff19664bcc7041f08ad230610ffb926c"
+    },
+    {
+      "path": "guides/marketing-agency-malaysia-checklist/index.html",
+      "sha256": "00e3edd94a46e4d8cd9cb9e73a9a6d00a6540825ab7b403d1a9bbed4a1477ee2"
+    },
+    {
+      "path": "guides/building-epc-ai-chat-saas/index.html",
+      "sha256": "74bebee98397172a3e1245fdb609d3f4118e8d0e42b98c767e48523f50e7621e"
+    },
+    {
+      "path": "guides/what-is-marketing/index.html",
+      "sha256": "46c5da859c932183abb501e64e7ea2b0c09be4ff799c57a3fe3037ee33cd66d3"
+    },
+    {
+      "path": "guides/google-ads-strategies-2027/index.html",
+      "sha256": "b2e4a3137f248b815f477ae100d991d9932bc2a9ea46a818230261447cadce32"
+    },
+    {
+      "path": "guides/seo-malaysia-searches-to-enquiries/index.html",
+      "sha256": "706067a163745530bf384a8c9de85dcd98e371bd0a3fd6c5979cc9943061da9d"
+    },
+    {
+      "path": "guides/campaign-brief-template/index.html",
+      "sha256": "849525c1ee212529d73691a9c585eac55dca468748cac6729f6d240550331c30"
+    },
+    {
+      "path": "guides/landing-page-checklist-2027/index.html",
+      "sha256": "3f6081ac2ff295c2a8e8e1be495a9ea09832c229a384aeb18c8e890bdf511ccb"
+    },
+    {
+      "path": "guides/what-is-google-seo/index.html",
+      "sha256": "3b5ae6c2b69aee3ad6c8bdfbe9992ec18359674854217a5d90791327873df55d"
+    },
+    {
+      "path": "guides/facebook-meta-advertising-malaysia/index.html",
+      "sha256": "0224ce3ff07b206c51307c1cc7c31f168f5ee69530be97c0195a92704f01074c"
+    },
+    {
+      "path": "guides/marketing-budget-malaysia-2027/index.html",
+      "sha256": "0851146eff5e1483286a2938ef28342c120c47c2445f2d918d914ec946e57af7"
+    },
+    {
+      "path": "guides/kl-marketing-agency-guide/index.html",
+      "sha256": "eb2567f285bb913d5ef2135c48b3899399c1e2e5644c38788c123ecabf7749e4"
+    },
+    {
+      "path": "guides/ai-overviews-seo-business-visibility/index.html",
+      "sha256": "d136d46fa97cf0a5a16d18c68628aef89360b8274d8b07d1b4d16bd7ce73998e"
+    },
+    {
+      "path": "guides/marketing-budget-malaysia/index.html",
+      "sha256": "4b6042d1d1e339bf9cb7f8cd35875837371a76d5a86a89a98fe93a33772fb8b3"
+    },
+    {
+      "path": "guides/meta-ads-vs-google-ads-malaysia/index.html",
+      "sha256": "622e39291225d621a065ee50068556b9430b17830e95f5c2f77b6f9f0752bba6"
+    },
+    {
+      "path": "epc-ai-chat/index.html",
+      "sha256": "6d72bcbe2a519fc5beda2982bf449ec7b300cee1c021798a69b1ec3abeae8995"
+    },
+    {
+      "path": "epc-ai-chat/style.css",
+      "sha256": "4ff2a2e058a8da7bf4f58e7fa039b00d1a1badf8f5add1fabffea1a348dff519"
+    },
+    {
+      "path": "terms-of-service/index.html",
+      "sha256": "eb4a857bbce4b90045adb1ce9129186ee83681bd3f1daaee3d46b4bba0d7aca4"
+    },
+    {
+      "path": "data-deletion/index.html",
+      "sha256": "2f8a25d1d59aa7739e18477191486a8a299119248642d9857ce02c2f773b4d2e"
+    },
+    {
+      "path": "marketing-agency-malaysia/index.html",
+      "sha256": "65b7fcab0b1d9d431241d1511706496916029145c9b276cf10d07261b6734dee"
+    },
+    {
+      "path": "assets/valley-beauty-social-poster.jpg",
+      "sha256": "6855983182aab20c3422ff38f6ca6f4136b74d70a45eb7e55bd45aa77fea067c"
+    },
+    {
+      "path": "assets/meta-report-beauty.png",
+      "sha256": "ed35f3bd07adb221534b53b4986b2e19b84d26be8dc840075177634204b32930"
+    },
+    {
+      "path": "assets/campaign-gift-box.jpeg",
+      "sha256": "6b59b91e9a452336190cf2876cd9d565a54d58ea6107fbbc210644e1823e148b"
+    },
+    {
+      "path": "assets/blog-seo-guide-3d.jpg",
+      "sha256": "0ca41ecb6dfc92bbdb14f40338cc2b99aff90c2c8523a723258308a790b8e0f6"
+    },
+    {
+      "path": "assets/campaign-dessert-table.jpeg",
+      "sha256": "d14cdfe7eb39133c2386122bce64cf758932e942dfd95f463fb695703003071c"
+    },
+    {
+      "path": "assets/seo-example-valley-local-ai-overview.jpg",
+      "sha256": "1e3fca58471238a8fdd4878d4df6cf99e0015a0ab2c947d5f8b0fab72284e5fa"
+    },
+    {
+      "path": "assets/landing-showcase-beauty-opt-20261107-640.jpg",
+      "sha256": "6ff9c3a1972b6568355e88539b02b199f3ab2fc47f7cdecc662e65e1aba591cd"
+    },
+    {
+      "path": "assets/blog-page-2027.jpg",
+      "sha256": "55721283a5e8d2ec0b270a691a985c02df573eb3972fefdcbd627ecdc03b9766"
+    },
+    {
+      "path": "assets/meta-report-dessert.png",
+      "sha256": "70e451f666d508101ed69b54e522c8158fcbea192c30f71dbc5d9becc2a48560"
+    },
+    {
+      "path": "assets/landing-showcase-property.png",
+      "sha256": "96ebf03fc18dfb65f64ba85c7a7b306e3a97df47e42b35ee34af9d0965b21b28"
+    },
+    {
+      "path": "assets/landing-samples.css",
+      "sha256": "eaa86a55d05e31cd88acfe18c978ee4293fa65a000d250c809b2cbdff58595e4"
+    },
+    {
+      "path": "assets/office-marketing-illustration-opt-20261107-640.jpg",
+      "sha256": "0ccc394a965e5568718f7e7c0add8c27b28fb0cfe7f3bde2320d4a3678d3ffae"
+    },
+    {
+      "path": "assets/partner-multilift.png",
+      "sha256": "36b27effc0d4c556a6780f645bf50adf5f7917663ea1c4c01b66d468221f909b"
+    },
+    {
+      "path": "assets/campaign-thai-food-opt-20261107-640.jpg",
+      "sha256": "7a1f8832d49d2a37056340ea86b76f29a5f1fd79ca146e340cff179f1e00ff95"
+    },
+    {
+      "path": "assets/home-polish.css",
+      "sha256": "95df04acc81a3f7917bd9891acbeb197c0e7ca630782bb0bf7c29a8d86bc7736"
+    },
+    {
+      "path": "assets/meta-report-automotive-opt-20261107-640.png",
+      "sha256": "2ea5ea51fe80bb00256823ec964cc8353893c0a50fa3f338bbb1d3a30100bf3e"
+    },
+    {
+      "path": "assets/landing-showcase-automotive-opt-20261107.jpg",
+      "sha256": "8c08eb5dc9de2ef14aa98c8420f1efc432323d42230e76eec82c29f3a34563c3"
+    },
+    {
+      "path": "assets/seo-keyword-research-reference-opt-20261107.png",
+      "sha256": "00ef3d3b01d7e26ecdf01a4700c3415fffa60f866b0bd4c5d5fb8c7752637eb8"
+    },
+    {
+      "path": "assets/valley-beauty-social-video.mp4",
+      "sha256": "5a1c5dc9ddfbbffa2229e6f601ff18da832be5e053d7bfca9647ba6e1dd260b5"
+    },
+    {
+      "path": "assets/google-ads-visual.css",
+      "sha256": "1116082de1228b79c7927773a8703f9260f97f9e2546fdc06fd23691f3ca9cb4"
+    },
+    {
+      "path": "assets/pricing-icons-3d.png",
+      "sha256": "614d18e3bde3d7cdd474dcd8985209cbf6b0bf850857f966f388f29d0013495b"
+    },
+    {
+      "path": "assets/valley-beauty-offer-ad.jpeg",
+      "sha256": "42f4fb70926ef238f4c02698b11e7a63b3d842fac394bbdc4111325516509734"
+    },
+    {
+      "path": "assets/office-marketing-illustration.png",
+      "sha256": "fca9692f3d281da96bebb9fe06acaea61cf220732cfa2223f04c4a5babf5d76d"
+    },
+    {
+      "path": "assets/campaign-ai-workshop.jpeg",
+      "sha256": "3efa16380b3bb5f811ea33ee1cdc9f94513b225bc7fe4a6c343854709d7d1fc4"
+    },
+    {
+      "path": "assets/global-header.js",
+      "sha256": "c889fb19a4d1f7a200a173e4dfef9166aa0fa584af02b507356db786aaac7974"
+    },
+    {
+      "path": "assets/epc-marketing-logo.png",
+      "sha256": "fe41e3ee0bb7573de6d56914fc13f8812e681b23e3bb78439e16540d3c0d1008"
+    },
+    {
+      "path": "assets/blog-kl-2027-opt-20261107.jpg",
+      "sha256": "e8d09f26dd86a4fedfbbd14d97fa01e70a8f55ae9c5d6f6d1bd472bdded265f1"
+    },
+    {
+      "path": "assets/seo-content.css",
+      "sha256": "2c96a03ccf94e54aa60d0259e030b5055f9cd579e6a78915edd35bc719c389bb"
+    },
+    {
+      "path": "assets/campaign-windscreen.jpeg",
+      "sha256": "cbb3b6fdf375ff6f5198b5cdd93178709520b24c45b928fc6f5623c71dc6f982"
+    },
+    {
+      "path": "assets/partner-oon-soong.png",
+      "sha256": "6c5e825316e328bb3ff8712addae8ad7266c05f5a6b434a0db0cd134357cf537"
+    },
+    {
+      "path": "assets/meta-report-beauty-20261110.png",
+      "sha256": "7f1f95d1e5f56b0b1deae23f9edf574876ca3e8389bd4baa18acdbe5ae8d8229"
+    },
+    {
+      "path": "assets/meta-report-dessert-opt-20261107-640.png",
+      "sha256": "7289910f081b43efa8cf86041b2a3b3678039afda107c4230f15e3e6ab96d127"
+    },
+    {
+      "path": "assets/home-simple.css",
+      "sha256": "b9ec2064199be96957e593f4e362c48a24336d3bd64517f84d6cd6d2abd4b44c"
+    },
+    {
+      "path": "assets/office-marketing-illustration-opt-20261107.jpg",
+      "sha256": "a2b0e9eaa9fbeb63e833c2ea239e9520c79a961857d72a7d6294f865e8c5f892"
+    },
+    {
+      "path": "assets/meta-report-beauty-opt-20261107.png",
+      "sha256": "8f0f1a374b9c86f1baed0546a3a4581d2835293f3ed5f34a07b371db0f6afb5f"
+    },
+    {
+      "path": "assets/meta-report-details.css",
+      "sha256": "3e8f2f1a4b1837aa275972b4d7b26b5ba95a915df2d153b91a5494982efb7de5"
+    },
+    {
+      "path": "assets/epc-ai-chat-shot.css",
+      "sha256": "827ea619105d5097c3e52310de675727fde24bd7d1fc550a9c898b6a0dc608ea"
+    },
+    {
+      "path": "assets/blog-agency-2027-opt-20261107-640.jpg",
+      "sha256": "6760be94bb1730d0448b7ccb460cee91f97f71a786864169fd83de96ffa2e862"
+    },
+    {
       "path": "assets/creator-filming.jpg",
-      "bytes": 435551,
       "sha256": "f239d2dd48fdff2ca69f7b776a1a1b2b9252f63617258aaf22f9b33ba13af576"
     },
     {
-      "url": "https://epcgrowth.com/assets/creator-editing.jpg",
+      "path": "assets/blog-budget-2027.jpg",
+      "sha256": "2e69eb1b93eb3f21f1241c95f259245718f792d1a44d376e78a1dccfcd12a220"
+    },
+    {
+      "path": "assets/meta-ads-refresh.css",
+      "sha256": "e616033819e4f2a84b145ec456780502f26dc07a426afa7fa3f1558a5ac4644d"
+    },
+    {
+      "path": "assets/campaign-valley-beauty-skin.jpeg",
+      "sha256": "51a3eba693db20a22a21e9e723a41e74cc26b14d57f15767deffc2d649cb5464"
+    },
+    {
+      "path": "assets/motion-home.js",
+      "sha256": "a9ba65471d93b316cd0b27db7a08846182847dc3f30abf0767187244e9805cfc"
+    },
+    {
+      "path": "assets/seo-search-examples.css",
+      "sha256": "0dd448ca87c5eadef79be21ebb8500172b41bb3dca72fa1940b4ce3956926923"
+    },
+    {
+      "path": "assets/landing-showcase-automotive.png",
+      "sha256": "4b5d7eec131a804230b8457524d40cbe00c166784ee9df42aed7000c75d3165c"
+    },
+    {
+      "path": "assets/creator-filming-opt-20261107-640.jpg",
+      "sha256": "7095778611bbaf3d34933173a58d462d8a62d0b74874045222a8b4faeed701f7"
+    },
+    {
+      "path": "assets/epc-marketing-logo-header.png",
+      "sha256": "a0f22bd7dbd26b93cf16eeaa40af57980f5a0fcbb7f4df2049e8a05f1fc25941"
+    },
+    {
+      "path": "assets/creator-editing-opt-20261107.jpg",
+      "sha256": "489b00d00d0a68bdf0a9c6eb891fea64d80c84459909d8445790771c946269dc"
+    },
+    {
+      "path": "assets/mega-header.css",
+      "sha256": "cbbbac24ba5133e3bc18d27e80b22e00f8fcbc9141a0b576efd06a00cf8eaa2a"
+    },
+    {
+      "path": "assets/landing-page-seven-elements.png",
+      "sha256": "3a714930cf82f53d89d70e36f74b2aa55bf3f66f3d1d337ec79bdad189e2b9f4"
+    },
+    {
+      "path": "assets/campaign-car-tint-opt-20261107-640.jpg",
+      "sha256": "73cf7a2e79618bb55b1e2b853679ed42f078acbfcd7c8d565dcd32d779558437"
+    },
+    {
+      "path": "assets/campaign-forklift-opt-20261107.jpg",
+      "sha256": "ad406cf66623c472eac5238f85bb072cf3ca3d08036c66483578c2bf58b81fe2"
+    },
+    {
+      "path": "assets/webdev-preview.css",
+      "sha256": "c47e2412b5675cac365379915b4145360a1fd548db3b779d1864948a194fa624"
+    },
+    {
+      "path": "assets/meta-report-automotive-20261110-preview.png",
+      "sha256": "bdea6ee9e486b8888c676518c830b0948be2b37d9d0f5f98ffc1b559a1e7d8ec"
+    },
+    {
+      "path": "assets/campaign-forklift.jpg",
+      "sha256": "c1a1c503700e912976b5453067a77d6d7f89e80bc4161b01f2fd788068d29308"
+    },
+    {
+      "path": "assets/landing-page-seven-elements-opt-20261107-640.jpg",
+      "sha256": "8a26b6c9dc0cec74c54d14e0e9a6e5d4e24fc95564ddcccc30f1ae03f382ee3e"
+    },
+    {
+      "path": "assets/seo-example-valley-service-searches.jpg",
+      "sha256": "669ee9db01be615a5d2158966c584d8b0cf09fb585302e26c3e6b519c638ddf0"
+    },
+    {
+      "path": "assets/motion-home.css",
+      "sha256": "4498817d7a150d3cece1514ac419bde8465b74d054e292327fd0dbaccd625216"
+    },
+    {
+      "path": "assets/landing-page-seven-elements-opt-20261107.jpg",
+      "sha256": "c2446a673fb76b381974eec90ef20d5f647ceaf34061cb3cde6ab35a7b5b71d2"
+    },
+    {
+      "path": "assets/seo-keyword-research-reference-opt-20261107-640.png",
+      "sha256": "aac98bc0126bdf3273a44a2ea2db88c01b64c7b7fe63093c737592bb2369a809"
+    },
+    {
+      "path": "assets/landing-showcase-beauty.png",
+      "sha256": "1424be93daf20147bd278695f811aea902e379fbb0382a91e350c18414ee1aea"
+    },
+    {
+      "path": "assets/epc-marketing-logo-header-opt-20261107.png",
+      "sha256": "9fbaebf29a344777fe3f963ca3e1bcd37ea71c9baa4e68442faa041a7041d24d"
+    },
+    {
+      "path": "assets/campaign-car-tint.png",
+      "sha256": "49ab80d585ac006f8898f672d6dcc3a4842f82065aeddd45164760e0e12854df"
+    },
+    {
+      "path": "assets/blog-page-2027-opt-20261107-640.jpg",
+      "sha256": "85355a61883c134f28c6aae8cc77aa72b9c1f2fb0d67edda8104e039e8b11320"
+    },
+    {
+      "path": "assets/home-navigation.css",
+      "sha256": "aaa13acffe7e9b03bb12362929649d1b8985e254256dbf8407c78ad4751d9a30"
+    },
+    {
+      "path": "assets/about-compact.css",
+      "sha256": "4f61a646dae17a7bb00032fb6dbb0b1cd0c2e3694fb225a4a19ee0e53680c617"
+    },
+    {
+      "path": "assets/meta-report-dessert-20261110-preview.png",
+      "sha256": "3feb02433f883d2a2211b15a952ac04db17795ea868715b65103251904e7df9c"
+    },
+    {
+      "path": "assets/campaign-thai-food-opt-20261107.jpg",
+      "sha256": "d00a9cb75400eeb20a7a0d0f4b2b9013fde428be1b9fef0b45362cdc271c6da4"
+    },
+    {
+      "path": "assets/epc-share-logo-20261110.png",
+      "sha256": "0d23a94c972f9e242c45a5554985b053a9f85489121b60f9a6fd83d27f2f55a5"
+    },
+    {
+      "path": "assets/mobile-quality.js",
+      "sha256": "743649ebd4233275adba249f8e3ad3fcd7de60782e13b72480b8e78879a2e709"
+    },
+    {
+      "path": "assets/service-pages-v2.css",
+      "sha256": "eb31720d136e2726cf0d781e9ddbf96ecc158eaa52a191fcccc3c55655ade038"
+    },
+    {
+      "path": "assets/blog-agency-2027.jpg",
+      "sha256": "1a2a5b64853661af71e22c8f9b152f6c32ba5c65d1b153a0f7ed1c696ea3376a"
+    },
+    {
+      "path": "assets/global-header.css",
+      "sha256": "fa251ef77c5425e0d594c00711ff7460bc37da35bcd5f91dfe9287c769854e92"
+    },
+    {
+      "path": "assets/landing-showcase-consulting.png",
+      "sha256": "193f6ced3a19db36e1bacd2b66b0bb1c197319545f9a1e57d85e70ab82d56962"
+    },
+    {
+      "path": "assets/valley-beauty-radiance-ad.jpeg",
+      "sha256": "5d31991cb1fbf560e1371f704e2e87394f6815aba21df7e6ea9ae91149bea6de"
+    },
+    {
+      "path": "assets/whatsapp-logo.svg",
+      "sha256": "6870171eea83ea80607e3a4e9b5de7ed724da07aa3af2de9c7b50e7408926a2b"
+    },
+    {
+      "path": "assets/blog-budget-2027-opt-20261107.jpg",
+      "sha256": "eb608de558eb0e8d3f9b29ac21b084e1ea0aa5c981387a793a964e856c6044a3"
+    },
+    {
+      "path": "assets/subpage-home.css",
+      "sha256": "b64ed1ce6670f3ee95a214b4e34a1a33403bbc31e8cfed4b654b5761f66ad0bd"
+    },
+    {
+      "path": "assets/ai-chat-sales-team-original.png",
+      "sha256": "52378ea79b1665b2b23f0dd61b96051b6b8966127801ef98c94501d2486339f4"
+    },
+    {
+      "path": "assets/studio-home.css",
+      "sha256": "e28cb07ffe171bd0bdf6cb71a70f1393c3b621dc6bcc4ef021602155088dde18"
+    },
+    {
+      "path": "assets/marketing-growth.svg",
+      "sha256": "0d4eed04ea0d725ac76703305543c37842dce75c212cdd60ea7a0657ca54f36a"
+    },
+    {
+      "path": "assets/blog-seo-enquiries-3d.jpg",
+      "sha256": "0ca41ecb6dfc92bbdb14f40338cc2b99aff90c2c8523a723258308a790b8e0f6"
+    },
+    {
+      "path": "assets/contact-page.css",
+      "sha256": "23146a90a106a2db378d845de0aa40a57941dd8be1840df873f730c533823f0f"
+    },
+    {
+      "path": "assets/blog-search-2027.jpg",
+      "sha256": "0463416bd466541b01d77992f3dc7750b2e6aa8477ce3810fd2ae70e31c1337c"
+    },
+    {
+      "path": "assets/landing-samples.js",
+      "sha256": "f368f1b0072bfba4e47473a639079466555dafc72951a06ac6ec545ebee1766a"
+    },
+    {
+      "path": "assets/agency-navigation.css",
+      "sha256": "3d5ee891ba8c656db084ce15b9de6265e3b70ed91e59929078e3ccbaf667181a"
+    },
+    {
+      "path": "assets/favicon.png",
+      "sha256": "b70ccc31b928544992b8baa7f10f786f94cb6caece6a6fd8ae4d232a0e3a0976"
+    },
+    {
+      "path": "assets/epc-favicon-2026.png",
+      "sha256": "38d7f7e58d383946d01e54db503a336a140ca01f6dd1ff6ee9bce43e869538ca"
+    },
+    {
+      "path": "assets/campaign-thai-food.png",
+      "sha256": "33a6b64f2f6313dddf040d8213b7fd83c70b221c3a4ccfa0e9f3a5061f9c1845"
+    },
+    {
+      "path": "assets/epc-ai-chat-inbox-demo.png",
+      "sha256": "8ee997b69b3ec21afb5b2cbb480f012315a305891f4314282e39cbffe88b2406"
+    },
+    {
+      "path": "assets/legal.css",
+      "sha256": "56570ba42ef7d34ba7e27e749a0c9f90d21fb66c191a04c6c1943b9fbeb2bd14"
+    },
+    {
+      "path": "assets/blog-budget-2027-opt-20261107-640.jpg",
+      "sha256": "07071023d16ff0c51b95bc3a6b8d355aef84f8becd6dae3efb3525a0e99e16d8"
+    },
+    {
+      "path": "assets/service-directory.css",
+      "sha256": "4df59ef23db76ac9af53c4a411ab5d002542626f277c7a1ca8e05c3675bffe3d"
+    },
+    {
       "path": "assets/creator-editing.jpg",
-      "bytes": 360412,
       "sha256": "5501cc043df8580a5dd7a31eadb557b625b6633ab7a7a7fc451cf4889a82e004"
     },
     {
-      "url": "https://epcgrowth.com/assets/editorial-scenes-20261031.png",
+      "path": "assets/simple-theme.css",
+      "sha256": "03e916e0506792181269dba2fed80a9df84b503e27c7c728ddf85e8347ce3257"
+    },
+    {
+      "path": "assets/campaign-forklift-opt-20261107-640.jpg",
+      "sha256": "10cd420cd28e494bd6235ecda222b6b6bed0cda7c110ad31fe15ae77a7e6c3de"
+    },
+    {
+      "path": "assets/facebook-ads-malaysia-og.png",
+      "sha256": "067666ca90ee1cab8ff59685ea11521c534b4d76434f71bd98c4e8a568756d00"
+    },
+    {
+      "path": "assets/agency-navigation.js",
+      "sha256": "23b7faa034e2d5eb7e8ad528c36f6f1b9e59ed7aae786157c0f047924c02ba06"
+    },
+    {
+      "path": "assets/blog-meta-2027.jpg",
+      "sha256": "a9254aef3345746098ac5dd84fa80533dc2eb1ac019419d2bbcabfc6fe0cbc9a"
+    },
+    {
+      "path": "assets/champagne.css",
+      "sha256": "339d10c2291236b14072136df6ba8cdadda1fac8e33ded62a0df7a276fb19417"
+    },
+    {
+      "path": "assets/landing-showcase-restaurant.png",
+      "sha256": "8bda08c6df20a7da01775db868c2693e42666b76c4fc24bd2c00d02bd70b3a28"
+    },
+    {
+      "path": "assets/meta-report-dessert-opt-20261107.png",
+      "sha256": "d3c4b2ef7661957e0127cd08a8a25e109aa24880138ecdf1d2dc25ef98c2dabd"
+    },
+    {
+      "path": "assets/landing-page-anatomy.svg",
+      "sha256": "485a685490e31cff3bee2ae9a6352ad86c157a70c2b7f02c0bad2ddbd31b2847"
+    },
+    {
+      "path": "assets/valley-beauty-treatment-poster.jpg",
+      "sha256": "e8765a90e90c07c9bbe2e629ab8142b6a043f5ed3f298c446186af21519858d4"
+    },
+    {
+      "path": "assets/seo-keyword-research-reference.png",
+      "sha256": "c5049b897101e880c0f25d0d84bf9212227dcb30481d4a0986e221361a82f1a3"
+    },
+    {
+      "path": "assets/company-footer.css",
+      "sha256": "19fc8b5aa49b138629f273dccd4accef8aa7f1f4d5b772cabb34b7ce3dc105fc"
+    },
+    {
+      "path": "assets/blog-kl-2027.jpg",
+      "sha256": "f492bdb0d8fede17bd40458bb30fcf4d167c7c87b44f3e9fe683843a3e82dad0"
+    },
+    {
+      "path": "assets/mobile-quality.css",
+      "sha256": "3987b55f09db85e96c2364ab089b25e6c57e15485b496bab8951a08031c45061"
+    },
+    {
+      "path": "assets/meta-report-beauty-20261110-preview.png",
+      "sha256": "d08e19f3f8b0ed5f4d620a4b122eb6cdbdfd58cbcc56924d6568e4ecd3f06408"
+    },
+    {
+      "path": "assets/creator-editing-opt-20261107-640.jpg",
+      "sha256": "1e8ad2b18b52dbc520e0894606e8134d6d5c8c1a32867d38d0a9ba0e4f6caf71"
+    },
+    {
+      "path": "assets/google-ads-dashboard-results.png",
+      "sha256": "a4b87925039ade365fd37c97441e8acd1792f0ba9b8320cfcb2d0221075a0e02"
+    },
+    {
+      "path": "assets/campaign-engine-cleaning.jpeg",
+      "sha256": "aafc9bf7da54cfc9c2580e07bc8f145e9d18d254b6196b383fc9797e03e3930f"
+    },
+    {
+      "path": "assets/landing-showcase-automotive-opt-20261107-640.jpg",
+      "sha256": "27d352b5eebb338a9150599ea35a5aac2b343f90d87579cd265ec6c0182d36c4"
+    },
+    {
+      "path": "assets/seo-example-epc-ai-overview.jpg",
+      "sha256": "c0f6c3db612d3665e3303118099ef8721d1ab112991a16667df73fa21b1bcc45"
+    },
+    {
+      "path": "assets/blog-cards.css",
+      "sha256": "6cd3cc9682e8ae5b8477f754eaaa0cf0ff04d6cb1668ad9acb72f3f2dc217dd8"
+    },
+    {
+      "path": "assets/about-refresh.css",
+      "sha256": "49b432b92f6a21eef8940a35dc5bb7b20ca09ee405a5fce97cc6dabfdef32295"
+    },
+    {
+      "path": "assets/meta-ads-refresh.js",
+      "sha256": "658e60586c1f6862c4e14a193eaa719d21d0bb222f689237f34bc3b7297e84d4"
+    },
+    {
+      "path": "assets/home-navigation.js",
+      "sha256": "79701fc4313364063cf0aba1ae61e1155187755cbba3c10bbb37cfc1f0c6bd94"
+    },
+    {
+      "path": "assets/creator-preview.css",
+      "sha256": "382cedb5c9c262b720eead96125b951bfd85227912549d1f828a81fa5e013af0"
+    },
+    {
+      "path": "assets/blog-preview.css",
+      "sha256": "268dde78c2197534dea76975cc1c5943222a720d43dbc98d266684d9854343b2"
+    },
+    {
+      "path": "assets/blog-page-2027-opt-20261107.jpg",
+      "sha256": "53869ac25fce7343480c75a2fca47b74492a38cd7f888c385ab93aa836e82111"
+    },
+    {
+      "path": "assets/premium-home.css",
+      "sha256": "41c69461932cc24ec1e0111167f8c5356ffbc6313a046f99818fab93957b636b"
+    },
+    {
+      "path": "assets/meta-report-automotive-20261110.png",
+      "sha256": "e631ffa1a14ba1c217aa60a69958ef8805d8eafdb5cfb837f55c14024f30c847"
+    },
+    {
+      "path": "assets/contact-page.js",
+      "sha256": "47450225f165c756c404e2b0455a96615ee7ea59eddf83395aa8c58a6c20caf8"
+    },
+    {
+      "path": "assets/home-blue.css",
+      "sha256": "563038f6a9ea67e50d736746e4ec65d676fcacab6b55c042a3fb2364adf11cdb"
+    },
+    {
+      "path": "assets/luxury-gold.css",
+      "sha256": "96ce33ecd24b9f98abbecbdfcff04a05ff25abe6a208b59437b910a7f5dbbe95"
+    },
+    {
+      "path": "assets/meta-report-dessert-20261110.png",
+      "sha256": "70e451f666d508101ed69b54e522c8158fcbea192c30f71dbc5d9becc2a48560"
+    },
+    {
+      "path": "assets/hero-marketing.png",
+      "sha256": "1388da910011b9cfbc5538aeb91a8407695c2f5f1bb5fc6270dfcca4ed8e5a55"
+    },
+    {
+      "path": "assets/epc-favicon-transparent-20261105.png",
+      "sha256": "0d23a94c972f9e242c45a5554985b053a9f85489121b60f9a6fd83d27f2f55a5"
+    },
+    {
+      "path": "assets/partner-oon-soong-opt-20261107.jpg",
+      "sha256": "b9317c1b475009132d293ecb204bdb8be4bf75e9fa4551af201d5a0c8aec665d"
+    },
+    {
+      "path": "assets/facebook-performance-dashboard.png",
+      "sha256": "960bdddb73845d9948e9a47c0a92cc2506f60f625dcd2a03fd977d8059675e0e"
+    },
+    {
+      "path": "assets/blog-kl-2027-opt-20261107-640.jpg",
+      "sha256": "7c7ed4cccf7504690938b402b30e6066f57ab504455fa12e2399cea96ef3ecf4"
+    },
+    {
+      "path": "assets/inner-pages.js",
+      "sha256": "030e0268de74140851ccb28ab212ba5e881a4898dc10581e4a5cc59f96ad27d3"
+    },
+    {
+      "path": "assets/campaign-car-tint-opt-20261107.jpg",
+      "sha256": "68f30b5eabe3576a957ee29d3f96e67337fa703f7a15460e39c8ab81c5b6d649"
+    },
+    {
+      "path": "assets/google-ads-refresh.css",
+      "sha256": "cc737ef6df21eed8b4f23acef945855def9c445e9ac9dfd2b3f2c8a0c7bc9c9f"
+    },
+    {
+      "path": "assets/meta-report-beauty-opt-20261107-640.png",
+      "sha256": "2cf80e3d8de6ae295cd08abdd78d886e68f9a895b8475133d900173f099dbfc3"
+    },
+    {
+      "path": "assets/ai-chat-sales-team-original-opt-20261107.jpg",
+      "sha256": "3af361f0479d4352e575e4b05e9dbaf149e9a4cb23302bef602faec28ea0015f"
+    },
+    {
+      "path": "assets/faq-page.css",
+      "sha256": "6ce06ec202c9ee48d5fa82b3a977397c43028f17b64a7c320b6ffea37a46f5ea"
+    },
+    {
+      "path": "assets/whatsapp-conversion.js",
+      "sha256": "8c7c4c5ee0b4d31a892b5ea8d677ee8024096b86999a6d8d0c893c26e6d8952a"
+    },
+    {
+      "path": "assets/seo-example-epc-service-searches.jpg",
+      "sha256": "185e9a9d0282315f6451417a37e5249f5e9e5aafc514a10381c3586465996c27"
+    },
+    {
+      "path": "assets/valley-beauty-treatment-video.mp4",
+      "sha256": "ce044b5f03312de8c750326f38f0f2bf9d90b062539ed7684387abf26c909283"
+    },
+    {
+      "path": "assets/service-credibility.css",
+      "sha256": "87bb1b94480bc3576e483b5e9e21c851360bbf02642b71788c3db8b0ff13b41a"
+    },
+    {
+      "path": "assets/meta-report-automotive.png",
+      "sha256": "e631ffa1a14ba1c217aa60a69958ef8805d8eafdb5cfb837f55c14024f30c847"
+    },
+    {
+      "path": "assets/partner-valley-beauty.jpg",
+      "sha256": "30531379a2b5b227475f1a3858fb32430bc265b6ec039ec6f0e6cf9361f19f93"
+    },
+    {
+      "path": "assets/creator-filming-opt-20261107.jpg",
+      "sha256": "e4cac34e6d525a2ec3b0e84a05542439a5c2ede42d367272b125e2a286913ff3"
+    },
+    {
+      "path": "assets/landing-showcase-beauty-opt-20261107.jpg",
+      "sha256": "00a0c59cbeb4df6f2c1ff08590169b214daa65ef51b08f1f9742f3d57f7d4a83"
+    },
+    {
+      "path": "assets/heading-refinement.css",
+      "sha256": "d80252a1c8b98dfb41ed39eea456269f0acb7d9f696d07f9b968d783e474c883"
+    },
+    {
+      "path": "assets/ai-chat-sales-team-original-opt-20261107-640.jpg",
+      "sha256": "a5a833eb5c6f8dfe26b29d2153a87f1a37a2baf172587e22e21674bb251bf72a"
+    },
+    {
+      "path": "assets/meta-report-automotive-opt-20261107.png",
+      "sha256": "57ce85b9919b230ba60314a132d001cb6f5a601be644e1913973013bd486360f"
+    },
+    {
+      "path": "assets/campaign-business-workshop.jpeg",
+      "sha256": "3261520ffc5425d36d91c257f7853786e688e015b8e6dd757ecd86378ba5bd74"
+    },
+    {
+      "path": "assets/blog-agency-2027-opt-20261107.jpg",
+      "sha256": "90c380bfc6a1600fbb30703f0d2df667050bbeb5785fddadfa2ffab663d4407e"
+    },
+    {
+      "path": "assets/valley-case.css",
+      "sha256": "2f1a486bb56704e11a9cafc0e0aa303308ee94f6d24c99ed978203c6bd09e8bc"
+    },
+    {
       "path": "assets/editorial-scenes-20261031.png",
-      "bytes": 2853302,
       "sha256": "8fc2869d9493de58a59985e0ad526db236d11fcaac22b1a7bdd8f58eb61d95ff"
+    },
+    {
+      "path": "assets/blog-seo-ai-search-3d.jpg",
+      "sha256": "f302fceb63c8db4e3f55b4c6428dcb83e738a00c08c9c6a2f323c9bbe911beb5"
+    },
+    {
+      "path": "assets/scroll-performance.css",
+      "sha256": "8383340c2399740178a460348d6907f8b42cdd71003a7a656cb8a03895b833d8"
+    },
+    {
+      "path": "assets/inner-pages.css",
+      "sha256": "82b23b5e66940d7fbb5d91ae2f5e39ffda3a7e6699c8e5d8403c40e061dca1a8"
+    },
+    {
+      "path": "assets/landing-samples/travel-opt-20261107-640.jpg",
+      "sha256": "1ddd5cbedc459bad1438cb3a04d2bac80ab3e5536522e4e4efb1770dcfcc6080"
+    },
+    {
+      "path": "assets/landing-samples/fitness-opt-20261107.jpg",
+      "sha256": "0c27728bdc30cda94d1d83123b92b36d7598ccf62746a2b6fe583908e45eb7b4"
+    },
+    {
+      "path": "assets/landing-samples/beauty.png",
+      "sha256": "b06f2a723a04ead14c70f689e60eacda9c51f1278c74c0b17c0f4133251fb396"
+    },
+    {
+      "path": "assets/landing-samples/interior.png",
+      "sha256": "8b3d5d67feabca36d59de9b79840b4a0233c056ced8ca3880e3b9c26511de767"
+    },
+    {
+      "path": "assets/landing-samples/travel.png",
+      "sha256": "51603eff12ff6bcce3cfd39ee53b6ed101ab29ac84edb5f4fd3e89c399526baf"
+    },
+    {
+      "path": "assets/landing-samples/ecommerce.png",
+      "sha256": "b14ec989a4f19f0924c98b1a448f299151137c2d5f216ae05e435bcbc95ff1ec"
+    },
+    {
+      "path": "assets/landing-samples/education-opt-20261107-640.jpg",
+      "sha256": "12c7f032a75cad91a353eab1bf47cc7e8cca5ea8657de2e6ee6bbda48ce6975a"
+    },
+    {
+      "path": "assets/landing-samples/travel-opt-20261107.jpg",
+      "sha256": "c019752a2791889e98d6761f01d0e8e0e3c2b58977153e142f9ad676b1d153a2"
+    },
+    {
+      "path": "assets/landing-samples/b2b-opt-20261107.jpg",
+      "sha256": "c0766c6ddc84dac1161a65b57924dcd29022833dd319289a5cf74cd4519bd251"
+    },
+    {
+      "path": "assets/landing-samples/b2b.png",
+      "sha256": "c8d9ad41578e1bbff2b1542a09ea7a27a29a59a19a70c017d5d33cc25593838a"
+    },
+    {
+      "path": "assets/landing-samples/restaurant-opt-20261107-640.jpg",
+      "sha256": "599b6328fc3c2971e1ac562aa3711166604f5d70f318565bfa3c0d39735ca395"
+    },
+    {
+      "path": "assets/landing-samples/restaurant.png",
+      "sha256": "6d43db006a4140dcec85d751ce4fdbd35b3cd881ad5abee8ce2a67ac9048ad20"
+    },
+    {
+      "path": "assets/landing-samples/automotive-opt-20261107-640.jpg",
+      "sha256": "3d192c6c71d5d4b1b33a3e774bd5054afa6723e29d4ed94c0329ff23a40db0f0"
+    },
+    {
+      "path": "assets/landing-samples/restaurant-opt-20261107.jpg",
+      "sha256": "240aa7211d75228f20e0c80597ee2177482f6cf6d70d83f56ccb7710e36d8b39"
+    },
+    {
+      "path": "assets/landing-samples/b2b-opt-20261107-640.jpg",
+      "sha256": "a0776e24832d1b2e277f23c04511f76c5fca05e31467bea68f5f9c2337acb64a"
+    },
+    {
+      "path": "assets/landing-samples/fitness-opt-20261107-640.jpg",
+      "sha256": "a7dee9a156aedbdc713bb15fd43006c5c2639dd69752cfab0dc81218950ce757"
+    },
+    {
+      "path": "assets/landing-samples/beauty-opt-20261107.jpg",
+      "sha256": "dc024e609ba7ca2a78ccfb0531ada0cd4412c5076548c7f60a5c22cce745d35b"
+    },
+    {
+      "path": "assets/landing-samples/interior-opt-20261107.jpg",
+      "sha256": "6a33ea94d989c3f00f398c04b3098af6f4a10a493c4a632cad8654e1f87b6894"
+    },
+    {
+      "path": "assets/landing-samples/automotive.png",
+      "sha256": "a493581b7a5b7605e8704866861c9c66212bc045e3ee2b6bf1e91028e35f8b06"
+    },
+    {
+      "path": "assets/landing-samples/property.png",
+      "sha256": "63877ee1756138e44fa2dc85d0d0625370ebce1cb6261c1f0da71062434ffdb6"
+    },
+    {
+      "path": "assets/landing-samples/property-opt-20261107.jpg",
+      "sha256": "7c61313fd05f00f6e1f85be78eb88b2968cd7ebc029af93996c93645a419c843"
+    },
+    {
+      "path": "assets/landing-samples/automotive-opt-20261107.jpg",
+      "sha256": "6a36cda44075f313682fca74b5c6028981973beedc86b31fe91aca25c0da93d7"
+    },
+    {
+      "path": "assets/landing-samples/property-opt-20261107-640.jpg",
+      "sha256": "a9b92e762dc05a2e1392fe2cf2c824ef702e0833fbc07a925f07343a3c40f6d5"
+    },
+    {
+      "path": "assets/landing-samples/beauty-opt-20261107-640.jpg",
+      "sha256": "186ce9c92b2796e7b741feeb5ea6e7f5def2716bb43b6056c82a33301d935ccf"
+    },
+    {
+      "path": "assets/landing-samples/ecommerce-opt-20261107.jpg",
+      "sha256": "f1bc7dacbe1e9a58b3f702678fed07284a06db7e0606846005104ceacc0d4b94"
+    },
+    {
+      "path": "assets/landing-samples/fitness.png",
+      "sha256": "c34bdd7926fedc9089dceb613e273de2717b29c13501bad0e9042a61ae0ec031"
+    },
+    {
+      "path": "assets/landing-samples/education.png",
+      "sha256": "123cef4d30941633da3d1533ec08969035af05a3e97327ea5acc6648abecb34d"
+    },
+    {
+      "path": "assets/landing-samples/interior-opt-20261107-640.jpg",
+      "sha256": "4ab068d2e259c6aa4d9bf2c1b2f12459e237ef271f2988a219e7a117b5396ae2"
+    },
+    {
+      "path": "assets/landing-samples/ecommerce-opt-20261107-640.jpg",
+      "sha256": "dc7b898e6e6f2737a3e3fe3fda4a6af6fc01093d4b471a085131a040998f4332"
+    },
+    {
+      "path": "assets/landing-samples/education-opt-20261107.jpg",
+      "sha256": "9e7a08aab5d0575a3777ab83fe87e2532ddd5215fdde5a4de77fbd58a1588cb4"
+    },
+    {
+      "path": "google-ads-malaysia/index.html",
+      "sha256": "ab9041a0de5c22493789e13defaaa0e8695387132e05a9c6f8efd572af87a7e0"
+    },
+    {
+      "path": "google-ads-malaysia/style.css",
+      "sha256": "995b0efcea5c5b71a03324486c150f57d43462edbbf1f284e39f62d441ad377b"
+    },
+    {
+      "path": "pricing/index.html",
+      "sha256": "2d96712e1c5e990fe74eec5fc7a5405af5ee1698fbcd5d19a2bb1d133137033a"
     }
-  ],
-  "errors": [],
-  "external_links": [
-    "https://about.fb.com/ltam/wp-content/uploads/sites/14/2023/11/LeadGenerationGuide.pdf",
-    "https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/",
-    "https://epcaichat.com/",
-    "https://support.google.com/google-ads/answer/12159014?hl=en",
-    "https://support.google.com/google-ads/answer/6167145?hl=en",
-    "https://support.google.com/google-ads/answer/6238816?hl=en",
-    "https://support.google.com/google-ads/answer/6366577?hl=en",
-    "https://support.google.com/google-ads/faq/10286469?hl=en",
-    "https://wa.me/60178873888",
-    "https://wa.me/60178873888?text=Hi%20EPC%20MARKETING%2C%20I%27d%20like%20to%20know%20more%20about%20your%20services.",
-    "https://wa.me/60178873888?text=Hi%20EPC%20MARKETING%2C%20I%27m%20interested%20in%20Facebook%20Ads.",
-    "https://wa.me/60178873888?text=Hi%20EPC%20MARKETING%2C%20I%27m%20interested%20in%20Google%20Ads.",
-    "https://wa.me/60178873888?text=Hi%20EPC%20MARKETING%2C%20I%27m%20interested%20in%20a%20Landing%20Page.",
-    "https://wa.me/60178873888?text=Hi%20EPC%20MARKETING%2C%20I%27m%20interested%20in%20video%20production.",
-    "https://wa.me/60178873888?text=Hi%20EPC%20MARKETING%2C%20I%27m%20interested%20in%20your%20digital%20marketing%20services.",
-    "https://wa.me/60178873888?text=Hi%20EPC%2C%20I%20am%20interested%20in%20Google%20Ads.",
-    "https://wa.me/60178873888?text=Hi%20EPC%2C%20I%20would%20like%20to%20discuss%20marketing%20for%20my%20business.",
-    "https://wa.me/60178873888?text=Hi%20EPC%2C%20I%20would%20like%20to%20plan%20a%20video%20shoot.",
-    "https://www.facebook.com/tr?id=1068817495735730&ev=PageView&noscript=1",
-    "https://www.googletagmanager.com/gtag/js?id=G-Y88146WDVP",
-    "https://www.googletagmanager.com/ns.html?id=GTM-NW9XGM4V"
   ]
 }

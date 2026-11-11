@@ -1,0 +1,21 @@
+/* Mobile reading and touch controls; existing brand and desktop layouts retained. */
+img{max-width:100%}
+@media(max-width:650px){
+ .agency-nav{gap:10px!important}.agency-brand{min-width:0}.agency-toggle,.agency-contact{min-height:44px;display:inline-flex;align-items:center;justify-content:center}
+ .agency-links[data-open="true"]{max-height:calc(100dvh - 140px);overflow-y:auto;overscroll-behavior:contain}
+ .agency-links a,.agency-services>summary{min-height:44px;box-sizing:border-box}
+ .agency-top-inner>a{min-height:36px;display:inline-flex;align-items:center}
+ .company-footer nav>a,.home-footer nav>a{min-height:44px;display:flex;align-items:center}
+ .article-hero{padding:36px 6%!important}.article-hero h1{font-size:clamp(27px,7.5vw,34px)!important;line-height:1.2!important;overflow-wrap:break-word}
+ .article-toc,.article-body,.blog-card,.contact-fields>*{min-width:0}.article-body p,.article-body li{overflow-wrap:break-word}
+ .article-cta a{display:inline-flex;align-items:center;min-height:44px;margin:4px 4px 4px 0}
+ .contact-page input:not([type=checkbox]),.contact-page textarea,.contact-page select{font-size:16px}
+ .contact-services label{min-height:48px}.faq-group summary{min-height:48px}.checkout{min-height:44px;display:flex;align-items:center;justify-content:center}
+ .whatsapp-float{min-width:48px;min-height:48px;bottom:max(16px,env(safe-area-inset-bottom));right:16px}
+}
+@media(max-width:360px){.agency-nav{gap:8px!important}.agency-brand img{max-width:84px!important;height:auto}.agency-contact{padding:11px 13px!important;font-size:13px!important}.agency-toggle{padding:10px!important}.agency-top-inner{gap:10px!important}}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #0960e9;outline-offset:3px}
+
+@media(max-width:650px){.home-simple .home-intro{padding:48px 20px 60px!important}.home-simple .home-intro h1{font-size:clamp(34px,10vw,42px)!important;line-height:1.14!important}.home-simple .home-lead{font-size:16px!important;line-height:1.65!important}.epc-blog .blog-card h2,.epc-blog .blog-card h2 a{font-size:22px!important}.company-footer,.home-footer{padding-bottom:80px!important}}
+
+.article-contents>summary{font-size:20px;font-weight:750;cursor:pointer;min-height:44px;display:list-item;line-height:44px}.article-contents:not([open]){margin-bottom:8px}@media(min-width:651px){.article-contents>summary{list-style:none}.article-contents>summary::-webkit-details-marker{display:none}}@media(max-width:650px){.article-toc{padding:16px!important}.article-toc .toc-back{margin-top:10px!important}.article-contents>summary{font-size:18px}}

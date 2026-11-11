@@ -1,15 +1,21 @@
 # EPC Marketing website
 
-Snapshot of https://epcgrowth.com/ captured on 2026-11-04 (Asia/Kuala_Lumpur).
+Current static website source synchronized from the Desktop working copy on 11 November 2026 (Asia/Kuala_Lumpur).
 
-The 112 public site files were saved without changing their bytes: HTML pages, CSS, JavaScript, images, videos, sitemap, robots file and a downloadable template. Original directory paths and query strings in HTML are preserved. `snapshot-manifest.json` records SHA-256 checksums and source URLs. Every URL was fetched twice and compared.
+Includes HTML, CSS, JavaScript, images, videos, public resources, sitemap and robots.txt. Google Ads, Analytics and WhatsApp conversion tracking are retained.
 
-## Preview
+## Local preview
 
-Run `python3 -m http.server 8080` from this directory, then open http://localhost:8080/.
+From this folder, run:
 
-## Scope
+```sh
+python3 -m http.server 8080 --bind 127.0.0.1
+```
 
-This is the browser-accessible static website, not recovered private build history or server-side code. External links and Google/Meta tracking services still use their original URLs. Original analytics configuration is unchanged.
+Open http://127.0.0.1:8080/ in your browser.
 
-No Vercel connection or production deployment was changed while creating this snapshot.
+## Deployment and private files
+
+Publishing this repository does not itself confirm a production hosting deployment. The private `.env` files, Vercel project/account configuration, temporary files and local credentials are excluded.
+
+`snapshot-manifest.json` lists SHA-256 checksums of the public files synchronized from the Desktop source. Other previously committed assets remain available in repository history and the working tree.

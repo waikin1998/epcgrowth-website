@@ -1,0 +1,15 @@
+.section-heading h2,.industry-heading h2,.intro h2,.solutions h2{color:#f2f6ff}
+.solution-grid article,.industry-marketing-grid article{background:linear-gradient(145deg,#13253b,#0c182b);border:1px solid #30445f;border-radius:20px;padding:28px;min-width:0}
+.solution-grid h3,.industry-marketing-grid h3{color:#f2f6ff}
+.solution-grid p,.industry-marketing-grid p{color:#becce0}
+.industry-marketing-grid span,.industry-marketing-grid a{color:#69ddff}
+.industry-marketing-grid a{display:inline-block;margin-top:12px}
+.ui-service-icon{display:flex;align-items:center;justify-content:center;width:56px;height:56px;margin:0 0 22px;border:1px solid #469bff55;border-radius:16px;background:linear-gradient(145deg,#247aff30,#28d4ff12);color:#69ddff;box-shadow:inset 0 1px 0 #ffffff15}
+.ui-service-icon svg{width:28px;height:28px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.service-card .service-icon{margin-bottom:14px}.solution-grid article,.industry-marketing-grid article{transition:border-color .25s,transform .25s}.solution-grid article:hover,.industry-marketing-grid article:hover{border-color:#51cfff;transform:translateY(-4px)}
+.portfolio-track{align-items:flex-start}.portfolio-track figure{display:flex;flex-direction:column;height:auto;align-self:flex-start;background:#112037;border-color:#30445f}.portfolio-track figure img{display:block;width:100%;height:auto!important;aspect-ratio:1/1;object-fit:contain;flex:none;background:#f8fafc}.portfolio-track figcaption{color:#eef5ff;min-height:64px;background:#112037;line-height:1.4}.portfolio-track figure:hover img{transform:none}
+.partners .partner-marquee:before{background:linear-gradient(90deg,#060d1c,transparent)}.partners .partner-marquee:after{background:linear-gradient(270deg,#060d1c,transparent)}
+.keyword-cloud span,.keyword-tags span,.capability-tags span{background:#12243a;color:#bfd5ef;border-color:#30445f}
+@media(max-width:700px){.solution-grid,.industry-marketing-grid{grid-template-columns:1fr}.ui-service-icon{width:48px;height:48px}.portfolio-track figure{width:260px}}
+@media(prefers-reduced-motion:reduce){.solution-grid article,.industry-marketing-grid article{transition:none}}
+.keyword-topics span{background:#14253b;color:#cee4fa;border-color:#30445f}.search-demand-copy{background:#101e32;border-radius:20px}.search-demand-copy h3,.search-demand-copy strong{color:#f2f6ff}.search-demand-copy p{color:#becce0}

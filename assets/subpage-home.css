@@ -1,0 +1,61 @@
+.home-link {
+  flex: 0 0 auto;
+  padding: 9px 12px;
+  color: #d8e2f4;
+  border: 1px solid #ffffff2b;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  transition: .2s;
+}
+
+.home-link:hover {
+  color: #fff;
+  border-color: #ffffff80;
+  background: #ffffff10;
+}
+
+footer a[href^="mailto:"] {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.cta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+}
+
+.email-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 20px;
+  color: #fff;
+  border: 1px solid #ffffff80;
+  border-radius: 4px;
+  font-weight: 700;
+}
+
+.email-button:hover {
+  background: #ffffff16;
+}
+
+@media (max-width: 620px) {
+  .header {
+    padding-left: 16px;
+    padding-right: 16px;
+    gap: 10px;
+  }
+
+  .header > a:first-child img {
+    width: 110px;
+  }
+
+  .home-link {
+    padding: 8px 9px;
+    font-size: 10px;
+  }
+}
