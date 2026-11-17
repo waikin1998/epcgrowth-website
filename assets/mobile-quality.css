@@ -19,3 +19,13 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #09
 @media(max-width:650px){.home-simple .home-intro{padding:48px 20px 60px!important}.home-simple .home-intro h1{font-size:clamp(34px,10vw,42px)!important;line-height:1.14!important}.home-simple .home-lead{font-size:16px!important;line-height:1.65!important}.epc-blog .blog-card h2,.epc-blog .blog-card h2 a{font-size:22px!important}.company-footer,.home-footer{padding-bottom:80px!important}}
 
 .article-contents>summary{font-size:20px;font-weight:750;cursor:pointer;min-height:44px;display:list-item;line-height:44px}.article-contents:not([open]){margin-bottom:8px}@media(min-width:651px){.article-contents>summary{list-style:none}.article-contents>summary::-webkit-details-marker{display:none}}@media(max-width:650px){.article-toc{padding:16px!important}.article-toc .toc-back{margin-top:10px!important}.article-contents>summary{font-size:18px}}
+
+/* Keep the shared mobile menu compact, independently of page styles. */
+@media(max-width:1050px){
+ .home-reference-header .agency-links[data-open="true"]{height:auto;min-height:0;padding:10px 24px;gap:0;justify-content:flex-start;align-items:stretch;font-size:15px;line-height:1.4}
+ .home-reference-header .agency-links>a,.home-reference-header .agency-services>summary{display:flex;align-items:center;gap:6px;flex:0 0 auto;min-height:44px;height:auto;padding:10px 0;font-size:15px;line-height:1.4;margin:0}
+ .home-reference-header .agency-services{flex:0 0 auto;margin:0}
+ .home-reference-header .agency-dropdown{margin:0 0 6px;padding:6px 10px}
+ .home-reference-header .agency-dropdown a{font-size:14px;line-height:1.4;padding:10px 8px;min-height:44px}
+ .home-reference-header .agency-links>a:after{bottom:4px;height:3px;width:32px}
+}
