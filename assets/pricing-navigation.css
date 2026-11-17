@@ -1,0 +1,11 @@
+/* Match the shared header even when legacy pricing styles are cached. */
+.home-reference-header{line-height:normal}
+.home-reference-header .agency-nav{justify-content:flex-start}
+.home-reference-header .agency-links{font-size:16px;font-weight:600;line-height:normal;justify-content:flex-start;padding:0}
+.home-reference-header .agency-links>a{font-size:inherit;line-height:inherit;border:0}
+.home-reference-header .agency-dropdown{display:block;max-width:calc(100vw - 48px)}
+.home-reference-header .agency-dropdown a{display:block;white-space:normal}
+@media(max-width:1050px){
+ .home-reference-header .agency-links[data-open="true"]{font-size:15px;padding:10px 24px}
+ .home-reference-header .agency-links>a{font-size:15px;line-height:1.4}
+}
